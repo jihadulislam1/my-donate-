@@ -139,7 +139,19 @@ border-radius: 5px;
     color: #707070;
     margin-top: 2em;
 }
+.same-case h1{
+    text-align: center;
 
+}
+p{
+    text-align: center;
+}
+.last-end{
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    background-color: black;
+}
 
 
     
